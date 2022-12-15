@@ -4,8 +4,15 @@ using System.Text;
 
 namespace Restaurant
 {
-    class Waiter
+    public class Waiter
     {
+        private long bill;
+        private long tip;
+        private List<Table> tables;
 
+        public Waiter(string name, long salary)
+        {
+            
+        }
     }
 }

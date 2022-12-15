@@ -7,6 +7,11 @@ namespace Restaurant
     {
         static void Main(string[] args)
         {
+            Menu menu = new Menu();
+            Console.WriteLine(menu);
+            Console.WriteLine();
+            Restaurant restaurant = new Restaurant();
+
             
         }
     }
