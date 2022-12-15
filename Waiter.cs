@@ -6,5 +6,6 @@ namespace Restaurant
 {
     class Waiter
     {
+
     }
 }
